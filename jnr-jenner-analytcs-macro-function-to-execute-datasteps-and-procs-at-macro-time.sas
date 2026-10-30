@@ -35,7 +35,7 @@ parmcards4;
 %macro getvars(
     libname=sashelp
    ,memname=class
-   ,prx='/(?!)/' /*-- always 0 so turns off prx ---*/
+   ,prx='/^/' /*-- always 1 matches everything ---*/
  ) / des="Populate global VARLIST matching column names";
 
   %global varlist;
