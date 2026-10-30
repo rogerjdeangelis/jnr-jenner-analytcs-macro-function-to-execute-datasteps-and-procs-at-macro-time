@@ -37,7 +37,7 @@ Jenner Analytics macro function to execute datasteps and procs at macro time
     %macro getvars(
         libname=sashelp
        ,memname=class
-       ,prx='/(?!)/' /*-- always 0 so turns off prx ---*/
+       ,prx='/^/' /*-- always 1 matches anything---*/
      ) / des="Populate global VARLIST matching column names";
     
       %global varlist;
