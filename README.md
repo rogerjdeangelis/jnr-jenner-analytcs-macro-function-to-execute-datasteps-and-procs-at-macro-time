@@ -1,6 +1,9 @@
 # jnr-jenner-analytcs-macro-function-to-execute-datasteps-and-procs-at-macro-time
 Jenner Analytics macro function to execute datasteps and procs at macro time
    Jenner Analytics macro function to execute datasteps and procs at macro time
+
+   Too long to post,see
+   https://github.com/rogerjdeangelis/jnr-jenner-analytcs-macro-function-to-execute-datasteps-and-procs-at-macro-time
     
     PROBLEM
     =======
