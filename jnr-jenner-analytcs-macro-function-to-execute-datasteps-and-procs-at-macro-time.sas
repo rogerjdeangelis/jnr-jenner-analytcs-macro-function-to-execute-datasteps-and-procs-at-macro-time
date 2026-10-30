@@ -1,5 +1,8 @@
 Jenner Analytics macro function to execute datasteps and procs at macro time
 
+Too long to post,ee
+https://github.com/rogerjdeangelis/jnr-jenner-analytcs-macro-function-to-execute-datasteps-and-procs-at-macro-time
+
 PROBLEM
 =======
 Keep only varables that contain name, weight and height
